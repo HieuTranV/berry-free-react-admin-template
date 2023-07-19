@@ -1,0 +1,9 @@
+#kanban-dashboard > .MuiCardContent-root {
+  background-color: rgb(249, 241, 241);
+  width: auto !important;
+
+}
+
+#kanban-dashboard > .MuiCardContent-root > .asc {
+  overflow-x: scroll;
+}
